@@ -41,6 +41,7 @@ body {
 
 .info {
     display: inline-block;
+    text-indent: 50px;
 }
 
 .clicktabs {
