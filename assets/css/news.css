@@ -27,6 +27,18 @@ body {
     color: red;
 }
 
+.subtitle {
+    background-color: rgb(56, 56, 56);
+}
+
+.update {
+    margin: 50px 0px;
+}
+
+.updateimg {
+    width: 100%;
+}
+
 .clicktabs {
     text-align: end;
     font-size: 25px;

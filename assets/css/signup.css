@@ -27,6 +27,10 @@ body {
     color: red;
 }
 
+.subtitle {
+    text-align: center;
+}
+
 .clicktabs {
     text-align: end;
     font-size: 25px;
