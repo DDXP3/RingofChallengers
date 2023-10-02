@@ -28,6 +28,10 @@ body {
 }
 
 .subtitle {
+    background-color: rgb(56, 56, 56);
+}
+
+.update {
     text-align: center;
 }
 
