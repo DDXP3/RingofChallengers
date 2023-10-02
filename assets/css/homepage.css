@@ -29,6 +29,7 @@ body {
 
 .clicktabs {
     text-align: end;
+    font-size: 25px;
 }
 
 .aboutus {
@@ -64,6 +65,21 @@ body {
     margin-right: 25px;
 }
 
+.facebook {
+    text-decoration: none;
+    color: white;
+}
+
+.instagram {
+    text-decoration: none;
+    color: white;
+}
+
+.email {
+    text-decoration: none;
+    color: white;
+}
+
 .mainimg {
     width: 100%;
 }
@@ -81,8 +97,17 @@ body {
 }
 
 .playnow {
-    text-decoration: none;
+    display: flex;
+    justify-content: center;
     color: red;
-    text-align: center;
     font-size: xx-large;
+}
+
+.pagebottem {
+    background-color: rgb(56, 56, 56);
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
 }
