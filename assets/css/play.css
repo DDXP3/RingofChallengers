@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+.title {
+    text-align: start;
+    font-size: xx-large;
+    background-color: rgb(56, 56, 56);
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.ring {
+    text-decoration: none;
+    color: gold;
+}
+
+.of {
+    text-decoration: none;
+    color: white;
+}
+
+.challengers {
+    text-decoration: none;
+    color: red;
+}
+
+.clicktabs {
+    text-align: end;
+    font-size: 25px;
+}
+
+.aboutus {
+    text-decoration: none;
+    color: white;
+    text-align: end;
+    display: inline-block;
+    background-color: rgb(56, 56, 56);
+    margin-right: 25px;
+}
+
+.news {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-color: rgb(56, 56, 56);
+    margin-right: 25px;
+}
+
+.play {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-color: rgb(56, 56, 56);
+    margin-right: 25px;
+}
+
+.signup {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-color: rgb(56, 56, 56);
+    margin-right: 25px;
+}
+
+.facebook {
+    text-decoration: none;
+    color: white;
+}
+
+.instagram {
+    text-decoration: none;
+    color: white;
+}
+
+.email {
+    text-decoration: none;
+    color: white;
+}
+
+.pagebottem {
+    background-color: rgb(56, 56, 56);
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+}
