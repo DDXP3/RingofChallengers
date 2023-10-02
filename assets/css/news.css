@@ -45,6 +45,15 @@ body {
     font-size: 25px;
 }
 
+.homepage {
+    text-decoration: none;
+    color: white;
+    text-align: end;
+    display: inline-block;
+    background-color: rgb(56, 56, 56);
+    margin-right: 25px;
+}
+
 .aboutus {
     text-decoration: none;
     color: white;
