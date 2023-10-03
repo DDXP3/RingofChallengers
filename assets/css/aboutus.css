@@ -6,25 +6,37 @@ body {
 
 .title {
     text-align: start;
-    font-size: xx-large;
+    font-size:126px;
     background-color: rgb(56, 56, 56);
     display: inline-block;
+    padding: 1% 3%;
     margin-left: 25px;
 }
 
 .ring {
+    font-family: 'Titan One', cursive;
     text-decoration: none;
     color: gold;
 }
 
 .of {
+    font-family:'Zeyada', cursive;
     text-decoration: none;
     color: white;
 }
 
 .challengers {
+    font-family: 'Kaushan Script', cursive;
     text-decoration: none;
     color: red;
+}
+
+.clicktabs {
+    position: absolute;
+    top: -20px;
+    left: 1200px;
+    text-align: end;
+    font-size: 25px;
 }
 
 .subtitle {
@@ -42,11 +54,6 @@ body {
 .info {
     display: inline-block;
     text-indent: 50px;
-}
-
-.clicktabs {
-    text-align: end;
-    font-size: 25px;
 }
 
 .homepage {
